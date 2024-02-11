@@ -1,0 +1,23 @@
+{
+  "name": "rainsforest-challenge",
+  "version": "1.0.0",
+  "description": "rainforest",
+  "main": "index.js",
+  "scripts": {
+    "solve": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtakayama-chwy/rainforest-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtakayama-chwy/rainforest-challenge/issues"
+  },
+  "homepage": "https://github.com/wtakayama-chwy/rainforest-challenge#readme",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
